@@ -40,14 +40,10 @@ calculator-project/
 2. Open `index.html` in any modern browser
 3. Start calculating!
 
-## 📸 Screenshot
-
-![Calculator Screenshot](https://via.placeholder.com/400x300?text=Simple+Calculator)
-
 ## ✍️ Author
 
 **Your Name**  
-[GitHub Profile](https://github.com/yourusername)
+[GitHub Profile](https://github.com/klu2200032233)
 
 ## 📝 License
 
