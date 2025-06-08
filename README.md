@@ -4,8 +4,7 @@ A simple web-based calculator built using **HTML**, **CSS**, and **JavaScript**.
 
 ## 🚀 Live Demo
 
-Click here to try it: [https://yourusername.github.io/calculator-project](https://yourusername.github.io/calculator-project)  
-(Replace `yourusername` with your actual GitHub username after deployment)
+Click here to try it: [https://yourusername.github.io/calculator-project](https://github.com/klu2200032233/calculator-project-/tree/main)  
 
 ## 📁 Project Structure
 
